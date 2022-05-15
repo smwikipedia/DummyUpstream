@@ -18,3 +18,7 @@ fix6
 --
 some change1
 some change2
+
+
+---
+bug fix1
