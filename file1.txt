@@ -27,3 +27,4 @@ bug fix2
 
 ---
 bug fix2-1
+bug fix2-2
